@@ -6,7 +6,7 @@ image will popup and ask to press anykey wait and another image will popup all i
 Keep the sdcard in the mmi to keep loggin your position.
 You need to do this everytime the mmi starts up.
 
-python2.7 script to copy binary allgps position data to gpx file. use:  python allgps.py allgps1
+python2.7 script to copy binary allgps position data to gpx file. use:  python allgps-gps.py allgps1
 
 This W.I.P. and enough for for now. Eventually I would like to be a more permanent logging solution.
 
